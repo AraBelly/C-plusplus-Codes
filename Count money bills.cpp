@@ -1,3 +1,5 @@
+//C++ code that allows users to enter the amount of a sale and the amount of the customers paid. It also shows how many specific bills do they need for the change.
+
 #include <iostream>
 using namespace std;
 
