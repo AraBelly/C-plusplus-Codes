@@ -1,3 +1,9 @@
+// C++ code that allows users to convert temperature.
+// How it works:
+// 1. Users enter a number
+// 2. Users will select what type of temperature unit that number is
+// 3. User will select on which temperature unit they want that number to convert into
+
 #include <iostream>
 #include <math.h>
 using namespace std;
