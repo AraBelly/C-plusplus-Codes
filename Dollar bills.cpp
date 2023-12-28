@@ -1,3 +1,5 @@
+//C++ code that allows users to split a value into specific dollar bills.
+
 #include <iostream>
 
 using std::cout;
