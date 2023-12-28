@@ -1,3 +1,5 @@
+//C++ code that allows users to enter a string and counts all the vowels, consonants, and numbers within the string.
+
 #include <iostream>
 #include <stdio.h>
 #include <conio.h>
