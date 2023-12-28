@@ -1,3 +1,5 @@
+// C++ codes that allows users to spell out or convert numbers into letters or words.
+
 #include<iostream>
 using namespace std;
 
